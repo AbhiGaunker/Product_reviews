@@ -1,0 +1,62 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.6:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:192.168.1.6 - - [23/Jul/2023 00:19:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.6 - - [23/Jul/2023 00:19:36] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.6 - - [23/Jul/2023 00:19:36] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'mouse', 'Name': 'Manas Das', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': "Great product in this price, no ON-OFF switch but shifts to hibernate mode if you don't use for 5 minutes and gets back after single click. \U0001f44c"}, {'Product': 'mouse', 'Name': 'HARISH CHAURASIYA', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'Good \U0001f44d'}, {'Product': 'mouse', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'Very cool \U0001f60eand very nice this itemTotal best product in budget'}, {'Product': 'mouse', 'Name': 'Girjesh Lodhi', 'Rating': '4', 'CommentHead': 'Very Good', 'Comment': "This is Awesom product and running it's smoothly.. I love it \u2764\ufe0f"}, {'Product': 'mouse', 'Name': 'Nipa Biswas', 'Rating': '5', 'CommentHead': 'Mind-blowing purchase', 'Comment': 'Awsome product.'}, {'Product': 'mouse', 'Name': 'Mohit Maurya', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'This is amazing product. This is supported in mobile and pc .I am so happy buy the product.'}, {'Product': 'mouse', 'Name': 'Tarique Ahmad', 'Rating': '4', 'CommentHead': 'Good quality product', 'Comment': 'Value for money\U0001f44d'}, {'Product': 'mouse', 'Name': 'Subhadip Das', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': 'Value for money . The quality of this product in this budget outstanding'}, {'Product': 'mouse', 'Name': 'TEJA  VaRma', 'Rating': '1', 'CommentHead': 'Hated it!', 'Comment': 'Exactly it worked for one month After one month it was dead , I actually thought there was a battery problem and I replaced the battery then also it is not working'}, {'Product': 'mouse', 'Name': 'AAQIB ANWER', 'Rating': '1', 'CommentHead': "Don't waste your money", 'Comment': 'There is no On/Off switch in mouse it means it will go on continuesly till battery ends so after 10-12 days of purchase battery got drained and when i put new battery into it, its not working. Got scammed by these peopleI suggest everyone to not buy this product.'}, {'Product': 'mouse', 'Name': 'AAQIB ANWER', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'There is no On/Off switch in mouse it means it will go on continuesly till battery ends so after 10-12 days of purchase battery got drained and when i put new battery into it, its not working. Got scammed by these peopleI suggest everyone to not buy this product.'}]
+INFO:werkzeug:192.168.1.6 - - [23/Jul/2023 00:19:45] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.6 - - [23/Jul/2023 00:19:45] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.1.6 - - [23/Jul/2023 00:19:45] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.7:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:192.168.1.7 - - [23/Jul/2023 16:07:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [23/Jul/2023 16:07:04] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [23/Jul/2023 16:07:04] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [23/Jul/2023 16:07:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'nokia', 'Name': 'Aashutosh Kumar', 'Rating': '4', 'CommentHead': 'Value-for-money', 'Comment': 'Excellent build quality...'}, {'Product': 'nokia', 'Name': 'GUDDU  KUMAR ', 'Rating': '1', 'CommentHead': 'Worthless', 'Comment': 'Worst phone and battery backup is useless'}, {'Product': 'nokia', 'Name': 'ANOOP KUMAR BECK', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Durable mobile. Life up to 10 yrs. Best network coverage in remote area.'}, {'Product': 'nokia', 'Name': 'Rahul Dey', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': 'Very good'}, {'Product': 'nokia', 'Name': 'Wajid Ansari', 'Rating': '1', 'CommentHead': 'Very poor', 'Comment': 'Bad experience i ordered mobile nokia 105 after 1 month use mobile heating problem and mobile not working completely Bad experience with  nokia And flipkart \U0001f621\U0001f621\U0001f621\U0001f621\U0001f621\U0001f621 Bad experience realy flipkart break my trust \U0001f621\U0001f621\U0001f621\U0001f621\U0001f621\U0001f621\U0001f621\U0001f621\U0001f621'}, {'Product': 'nokia', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'Just bought and \u2764 it....'}, {'Product': 'nokia', 'Name': 'Nagendra Kumar', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Good nokia phoneDual sim card slotMemory card slotMusic \U0001f3b5 playerRs 1449Rs 100 received cashback by Paytm1000 mah batteryBest sound qualityBest builds quality'}, {'Product': 'nokia', 'Name': 'RAMESH CHANDRA', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'very nice'}, {'Product': 'nokia', 'Name': 'Harsha S', 'Rating': '1', 'CommentHead': 'Useless product', 'Comment': 'Please change the my mobile please do not working in'}, {'Product': 'nokia', 'Name': 'Shivam Gupta', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'Gift'}, {'Product': 'nokia', 'Name': 'Shivam Gupta', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Gift'}]
+INFO:werkzeug:192.168.1.7 - - [23/Jul/2023 16:07:29] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [23/Jul/2023 16:07:29] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.1.7 - - [23/Jul/2023 16:07:29] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.7:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'ipad', 'Name': 'Kaajal  Rawat', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'Love this ipad.'}, {'Product': 'ipad', 'Name': 'Martina Biswas', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Good'}, {'Product': 'ipad', 'Name': 'Sandeep Kumar Sharma', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'This i pad has all new designs of I pad Air 4,5 It is capable to do all your work at its tips Best for study and affordable if u use hdfc card A little bit sad about its display and upper glass gap bcoz it make a little down But it don’t affect your work and study anyways If u notice the screen very deeply u observe it otherwise it is not noticeable Performance it top level as I use I pad pro 3rd gen it feel same If u are a student go for it u love it \U0001f91e\U0001f603'}, {'Product': 'ipad', 'Name': 'DEBRAJ MONDAL', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': "That's really a study material \U0001f917"}, {'Product': 'ipad', 'Name': 'Aman  Sharma ', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'Amazing product \U0001f44d  AMAN SHARMA VILL BARHULI'}, {'Product': 'ipad', 'Name': 'Jhasaketan Dash', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': "It's a good one."}, {'Product': 'ipad', 'Name': 'Moksh  Ramchandani ', 'Rating': '1', 'CommentHead': 'Unsatisfactory', 'Comment': 'Worst product hve had.......Safari is getting stucked again and again......not working properly and screen sensitiveness is poor.....Want to return the product, no option available.....Unable to upload video of poor performance of ur product....What to do please guide......need to return it...Not up to the mark.....'}, {'Product': 'ipad', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': "After use one month....it's a nice experience. Better than other options.."}, {'Product': 'ipad', 'Name': 'PRATEEK SHRIVASTAV', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'iPad 10 is Awesome. Nice Display and smoother experience. Sound Quality is also good. Camera is good. Loved this Tab.'}, {'Product': 'ipad', 'Name': 'Mushahid  Rahaman', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'Stylus pen should buy seperately'}, {'Product': 'ipad', 'Name': 'Mushahid  Rahaman', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Stylus pen should buy seperately'}]
+INFO:werkzeug:192.168.1.7 - - [23/Jul/2023 16:09:38] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [23/Jul/2023 16:09:38] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.1.7 - - [23/Jul/2023 16:09:39] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.7:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:log my final result []
+INFO:root:documents must be a non-empty list
+INFO:werkzeug:192.168.1.7 - - [23/Jul/2023 16:11:15] "POST /review HTTP/1.1" 200 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone12', 'Name': 'Rupesh Thik', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'Awesome Camera'}, {'Product': 'iphone12', 'Name': 'Arjun  Chakravarti ', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Awesome'}, {'Product': 'iphone12', 'Name': 'Jaya chandra  Reddy', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'Amazing phone  In love with this phone'}, {'Product': 'iphone12', 'Name': 'Shivam Thakur', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'I am very happy with I phone 12Very Nice Product Thanku Flipkart'}, {'Product': 'iphone12', 'Name': 'Najir  Hussain ', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Awesome camera quality…just love it'}, {'Product': 'iphone12', 'Name': 'Sibsankar Das', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Camera quality is just fabulous. Interface is very smooth.  Good for photography and videography.'}, {'Product': 'iphone12', 'Name': 'Sivaramaraju Raju', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Best iPhone till date \U0001f495'}, {'Product': 'iphone12', 'Name': 'Manoj Kumar ', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Super'}, {'Product': 'iphone12', 'Name': 'Ankur Sharma', 'Rating': '4', 'CommentHead': 'Very Good', 'Comment': 'display is good , processor is awesome'}, {'Product': 'iphone12', 'Name': 'Shivam Kengale', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Go for it'}, {'Product': 'iphone12', 'Name': 'Shivam Kengale', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Go for it'}]
+INFO:werkzeug:192.168.1.7 - - [23/Jul/2023 16:11:41] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:192.168.1.7 - - [23/Jul/2023 16:11:41] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:192.168.1.7 - - [23/Jul/2023 16:11:42] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
